@@ -1,0 +1,21 @@
+0 A block
+1 Badminton court
+2 Admission Cell
+3 Basketball Court
+4 Bus Stand
+5 C block
+6 Canteen
+7 Gate no. 2
+8 Gate no. 1
+9 D block
+10 E block
+11 Let Me Bake
+12 Mapple mess
+13 Mechanical Department
+14 Main Mess
+15 NesCafe
+16 Open Air Theatre
+17 Shivalik Hostel
+18 Washroom And Sitting area
+19 Volleyball Court
+20 Indoors
