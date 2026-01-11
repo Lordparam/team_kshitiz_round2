@@ -84,6 +84,35 @@ The buildings, roads, entry/exit points and walking paths of the campus are clea
 
 ---
 
+---
+
+## 🔄 Application Flowchart
+
+The following flowchart illustrates how the app processes or works of the **Campus Navigation App**, showing how different modules such as permissions, AI-based building recognition, GPS tracking, and navigation interact with each other, and work together.
+
+![Campus Navigation App Flowchart](flowchart_image.png)
+
+---
+
+## 🧭 Flow Explanation
+
+1.The application starts and initializes the main activity.<br>
+2.Required permissions i.e Camera and Location are checked,and they should be enabled by the user and then further the app continues to navigate.<br>
+3.If permissions are not granted, the user is asked to allow them, through popup.<br>
+4.Once permissions are granted:<br>
+The camera module starts for AI-based building recognition.<br>
+The GPS module starts for real-time location tracking.<br>
+The AI model processes camera frames to identify campus buildings.<br>
+The detected building name is displayed to the user.<br>
+The user can search for a destination building.<br>
+The map updates with navigation markers and routes.<br>
+TTS i.e Text-to-Speech provides voice assistance during navigation from source to destination.<br>
+The application continues tracking until navigation is stopped or the app is closed.<br>
+
+
+This flowchart helps in understanding the logical sequence and interaction between AI, GPS, and navigation components of the app.
+
+
 ## 7. VOICE GUIDANCE SYSTEM
 
 The main purpose of voice guidance system in CampusNavPro is to provide hands-free navigation to the users. For walking users or situations where it is difficult to see the screen, audio instructions are user-friendly and efficient solution. The app uses Android Text-to-Speech(TTS) API. This module converts text instructions generated from map and AI modules into audio output in real-time. Jaise: “Turn left at Neelkanth Hostel” or “You have reached the Canteen.”
