@@ -90,6 +90,16 @@ The main purpose of voice guidance system in CampusNavPro is to provide hands-fr
 
 Importance of Audio Feedback is that Users do not need to continuously look at the map or screen.Navigation during walking or crowded areas appears to be smoothAccessibility is improved, especially for visually impaired users.Repetition control mechanism is implemented in voice instructions. If the user misses a turn or path, the system provides repeat prompts. If the user follows the instructions, unnecessary repetition is avoided. This makes audio feedback non-intrusive and efficient.
 
+---
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/Lordparam/team_kshitiz_round2/blob/c537358f399fad8b77a151d4415aabe16d72cc2b/imgg4.jpeg" 
+       alt="Campus Navigation Preview" 
+       width="400">
+</p>
+
 **Advantages:**
 * Hands-free, real-time guidance
 * Better user experience in outdoor & crowded areas
@@ -118,6 +128,26 @@ The App has simple navigation controls, like start, pause, reroute, and manual d
 * Jetpack Compose version BOM 2023.10.01(for ui design), OSMDroid(version 6.1.18), CameraX(version 1.3.1), TensorFlow Lite(version 2.14.0), Android SDK(version 34).
 
 ---
+
+---
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/Lordparam/team_kshitiz_round2/blob/c537358f399fad8b77a151d4415aabe16d72cc2b/imgg2.jpeg" 
+       alt="Campus Navigation Preview" 
+       width="400">
+</p>
+
+---
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/Lordparam/team_kshitiz_round2/blob/c537358f399fad8b77a151d4415aabe16d72cc2b/imgg3.jpeg" 
+       alt="Campus Navigation Preview" 
+       width="400">
+</p>
 
 ## 9. TECHNOLOGY STACK
 
@@ -151,6 +181,16 @@ Augmented Reality navigation would be a help. You would see everything you need 
 
 ---
 
+---
+
+## Preview
+
+<p align="center">
+  <img src="https://github.com/Lordparam/team_kshitiz_round2/blob/c537358f399fad8b77a151d4415aabe16d72cc2b/imgg1.jpeg" 
+       alt="Campus Navigation Preview" 
+       width="400">
+</p>
+
 ## 13. SETUP & INSTALLATION REQUIREMENT
 
 The CampusNavPro app is made using Android Studio, espaecailly form version like our Android Studio Otter (2025.2.2). The reason why we use this version of android studio is this version of Android Studio supports Jetpack Compose and Kotlin 1.9.0 fully and it is easier that to make and deploy app with this version and in addition to this it works well with Jetpack Compose and Kotlin 1.9.0. as they are the best and finest tools we can use to make our app of Campus Navigation System.
@@ -181,8 +221,7 @@ When you put CampusNavPro on your device and start it up it will ask if it can u
 CampusNavPro was made when some people got together for a college competition to create something. During a hackathon we have to work both fast and in an effective way as we have very limited time during a hackathon because in a hackathon, we have to work in a project in just 24-48 hours from understanding the problem to implementing it fully. CampusNavPro is a project that these people worked on during this time.
 
 * **Round 1:** Problem identification, ideation, and solution design
-* **Round 2:** for this one we have used OSMdroid(Open Street Map) and downloaded .json file for the map location and points, for specific buildings.
-* **Round 3:** We had major focus on the UI refinement, performance optimization, testing, and bug fixing, so our customers can find themselves less confusing.
+* **Round 2:** for this one we have trained model for building identification inside of the campus live, with your camera, and also it can find path from current location to wherever user wants to go, along with there is a text to audio model, that continously tells how much distance is left, so this can be good for visually impaired students as well.
 
 The team did a great job. They made a working prototype in an amount of time. This prototype uses Artificial Intelligence, navigation and mapping. The Artificial Intelligence and mapping and navigation all work together well.
 
