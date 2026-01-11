@@ -86,7 +86,7 @@ The buildings, roads, entry/exit points and walking paths of the campus are clea
 
 ---
 
-## 🔄 Application Flowchart
+##  Application Flowchart
 
 The following flowchart illustrates how the app processes or works of the **Campus Navigation App**, showing how different modules such as permissions, AI-based building recognition, GPS tracking, and navigation interact with each other, and work together.
 
@@ -94,7 +94,7 @@ The following flowchart illustrates how the app processes or works of the **Camp
 
 ---
 
-## 🧭 Flow Explanation
+##  Flow Explanation
 
 1.The application starts and initializes the main activity.<br>
 2.Required permissions i.e Camera and Location are checked,and they should be enabled by the user and then further the app continues to navigate.<br>
@@ -244,6 +244,12 @@ If the permissions given are not right or if things are not put into correct pla
 When you put CampusNavPro on your device and start it up it will ask if it can use your camera and know where you are. You have to say yes to these things so that CampusNavPro works the way it should. To get a GPS signal users should be outside. When the camera is on if you point your phone at the buildings, on campus the system can find landmarks that it already knows about like the campus buildings. You can pick destinations yourself using the search part of the app. When you do this the app figures out the way to get there and then helps you navigate in real time. It does this by showing you pictures and talking to you with a computer voice. The app uses these things to help you get to your destination. You can stop navigating anytime you want by using the Stop Navigation button. This app is really meant to be used on the campus.
 
 ---
+
+## 🔗 Demo Video Link
+
+ **Campus Navigation App – Demo**  
+ https://drive.google.com/file/d/14nK8_qPwVPQThgxqrQ3bB2zhRN1ZSt3E/view?usp=drive_link
+
 
 ## 15. HACKATHON CONTEXT
 
