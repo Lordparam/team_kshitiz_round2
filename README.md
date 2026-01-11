@@ -268,6 +268,29 @@ The project uses TensorFlow Lite for machine learning that happens on the device
 
 ---
 
+---
+
+## 📱 Application APK Download
+
+Due to GitHub file size limitations, the APK file is hosted externally.
+
+🔗 **Download Campus Navigation App (APK):**  
+ https://drive.google.com/file/d/1cs8-QdxGiaL53qx94cNRlVOeO4Zs-8gX/view?usp=sharing
+
+---
+
+###  Installation Instructions
+
+1. Download the APK from the link above.
+2. Enable **Install from Unknown Sources** on your Android device, from your chrome browser.
+3. Open the downloaded APK file.
+4. Complete the installation and launch the CampusNavpro app.
+
+---
+
+> ⚠️ **Note:**  
+> This APK is intended for testing and academic demonstration purposes only.
+
 ## 17. LICENSE
 
 CampusNavPro is currently unlicensed and was developed strictly for hackathon evaluation, academic demonstration, and learning purposes. It is not intended for commercial use in its present form. Licensing may be considered if the project evolves further.
